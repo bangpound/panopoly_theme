@@ -6,7 +6,6 @@ php = 5.2.4
 version = 7.x-1.x-dev
 project = panopoly_theme
 dependencies[] = image
-dependencies[] = panopoly_magic
 features[features_api][] = api:1
 project status url = http://apps.getpantheon.com/fserver
 stylesheets[all][] = css/fonts.css
