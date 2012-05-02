@@ -6,3 +6,9 @@ Key Features
 * 26 responsive Panel layouts to choose from
 * Implements "Featured" view mode for all content types
 * Inclusion of the Open Sans font style for @font-face integration
+* jQuery Panopoly theme
+* Accordian Panels style plugin
+
+To Do
+* Cleanup of Views Slideshow CSS
+* Review of accordian style plugin + standardization with other plugins
