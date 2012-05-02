@@ -9,4 +9,3 @@ dependencies[] = image
 features[features_api][] = api:1
 project status url = http://apps.getpantheon.com/fserver
 stylesheets[all][] = css/panopoly_fonts.css
-stylesheets[all][] = css/panopoly_views_slideshow.css

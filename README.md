@@ -10,5 +10,4 @@ Key Features
 * Accordian Panels style plugin
 
 To Do
-* Cleanup of Views Slideshow CSS
 * Review of accordian style plugin + standardization with other plugins
