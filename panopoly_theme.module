@@ -24,7 +24,7 @@ function panopoly_theme_ctools_plugin_directory($module, $plugin) {
 function panopoly_theme_css_alter(&$css) {
   // Installs the jquery.ui themeroller theme to the theme.
   if (isset($css['misc/ui/jquery.ui.theme.css'])) {
-    $css['misc/ui/jquery.ui.theme.css']['data'] = drupal_get_path('module', 'panopoly_theme') . '/jqueryui/panopoly-theme/panopoly-jquery-ui-theme.css';
+    $css['misc/ui/jquery.ui.theme.css']['data'] = drupal_get_path('module', 'panopoly_theme') . '/css/panopoly-jquery-ui-theme.css';
   }
   
   if (isset($css['misc/ui/jquery.ui.dialog.css'])) {
